@@ -1,5 +1,6 @@
 #Script to send data to TIBCO cloud and receive transated LAT LONG based in addresses in table.
 #For use with JSON interface
+#Change user(iesbrazil) and set your key provided by TIBCO.
 #Made by Rodrigo Eiras
 
 library(httr)
