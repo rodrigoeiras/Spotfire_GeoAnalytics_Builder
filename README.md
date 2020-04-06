@@ -1,4 +1,4 @@
- # GeoAnalytics Builder
+# Spotfire GeoAnalytics Builder
 Snippet to fetch data from TIBCO GeoAnalytics Builder as data functions in TIBCO Spotfire
 
 There are many ways to achieve that as TIBCO uses RESTful services to provide data.
